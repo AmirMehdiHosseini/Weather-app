@@ -35,3 +35,5 @@ if json_info['cod'] != '404':
     name       = json_info['name']
     wtr        = json_info['weather']
     condition  = wtr[0]['description']
+
+    
